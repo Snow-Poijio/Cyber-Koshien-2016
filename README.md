@@ -15,7 +15,7 @@
 |:-----|:----|:----|:----|:-----|
 |1|Sample|10pt|[TRY FIRST](q1/q1.md)|O|
 |2|Binary|100pt|[sl is not ls ](q2/q2.md)|O|
-|3|Binary|100pt|[Assembler Tanka](q3/q3.md)||
+|3|Binary|100pt|[Assembler Tanka](q3/q3.md)|O|
 |4|Binary|300pt|[fakeransom](q4/q4.md)||
 |5|Binary|200pt|[guess the flag](q5/q5.md)|O|
 |6|Crypto|100pt|[gokai?](q6/q6.md)|O|
