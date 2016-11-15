@@ -24,8 +24,8 @@ while 1:
     if num_prime > 31337:
         break
     if is_prime(i):
-        num_prime+=1
-        if 12345 <= num_prime and num_prime <= 31337:
+        num_prime　+=　1
+        if 12345 <= num_prime <= 31337:
             sum_prime += i
-    i+=1
+    i　+=　1
 print sum_prime
