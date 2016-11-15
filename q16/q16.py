@@ -28,4 +28,4 @@ while 1:
         if 12345 <= num_prime and num_prime <= 31337:
             sum_prime += i
     i+=1
-print i
+print sum_prime
