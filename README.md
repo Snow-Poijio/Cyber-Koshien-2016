@@ -12,7 +12,7 @@
 ## WriteUp
 
 |Number|Genre|Score|Title|WriteUp|
-|--:--|:----|:----|:----|:-----|
+|-----:|:----|:----|:----|:-----|
 |1|Sample|10pt|[TRY FIRST](q1/q1.md)|O|
 |2|Binary|100pt|[sl is not ls ](q2/q2.md)|O|
 |3|Binary|100pt|[Assembler Tanka](q3/q3.md)|O|
