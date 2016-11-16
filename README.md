@@ -29,7 +29,7 @@
 |14|Programming|100pt|[x2.txt](q14/q14.md)|O|
 |15|Programming|200pt|[decode the trapezoid QR code](q15/q15.md)|O|
 |16|Programming|100pt|[sum primes](q16/q16.md)|O|
-|17|Web|100pt|[sessionhijack](q17/q17.md)||
+|17|Web|100pt|[sessionhijack](q17/q17.md)|O|
 |18|Trivia|100pt|[blacked out PDF](q18/q18.md)|O|
 |19|Trivia|200pt|[blacked out PDF again](q19/q19.md)|O|
 |20|Trivia|300pt|[how much a fine?](q20/q20.md)|O|
